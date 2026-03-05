@@ -31,6 +31,7 @@
 * 🕸 Web development (fortenend,Backend)
 * ⛏️ Web Scraping
 * 🐘 Php
+* ✡️Recat Native learning 
 
 
 ---
