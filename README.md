@@ -42,8 +42,8 @@
 </div>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruwanth2754&" alt="my-Profile" /></p>
+
 <div align="center">
  <span style="color: #8a8a8a;">® Ruwantha OFC</span>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruwanth2754&" alt="my-Profile" /></p>
